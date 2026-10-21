@@ -13,9 +13,11 @@ html {
   align-items: center;
   justify-content: center;
   height: 100svh;
+  bakground-repeat: no-repeat;
   background-color: var(--background-color);
   background-image: url("../../bgs/topography.svg");
   overflow-x: clip;
+  background-size: cover;
 }
 
 html.loaded {
