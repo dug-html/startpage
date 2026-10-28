@@ -15,7 +15,7 @@
     height: 100svh;
     background-repeat: no-repeat;
     background-color: var(--background-color);
-    background-image: url("../../bgs/topography.png");
+    background-image: url("../../bg/topography.png");
     overflow-x: clip;
     background-size: cover;
     background-position: center;
